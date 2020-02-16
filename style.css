@@ -1,0 +1,45 @@
+body{
+	margin: 30px  auto;
+	padding: 10px;
+	border: 1px solid black;
+	width: 900px;
+	box-shadow: inset 0 0 1em black;
+
+}
+main{
+	margin: 0 auto;
+}
+h1{
+	text-align: center;
+}
+.flex-container{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+}
+.aqui{
+	text-align: right;
+	margin-right: 80px;
+}
+.objet{
+	text-align: left;
+	margin-left: 100px;
+}
+
+section{
+	margin: 0px 85px;
+	text-align: justify;
+}
+.sign{
+	text-align: right;
+}
+p{
+	font-family: Roboto,vernada,sans-serif;
+	padding: 10px;
+}
+section p{
+	text-indent: 50px;
+}
+.entete{
+	font-weight: bold;
+}
